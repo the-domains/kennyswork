@@ -1,0 +1,28 @@
+name: Kennyswork
+favicon: null
+layout_spectrum: 0.12822099239565432
+typography_spectrum: 0.23545396351255476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2878000463824719
+  lightness: 0.9623305010609329
+  saturation: 0.6641487758606672
+  rhythmicContrast: 0.07649769447743893
+purpose: []
